@@ -25,6 +25,9 @@ These lecture materials are meant to supplement, not replace, in class lectures 
 * Lecture 4: Newtons 2nd law, Building a physical model, more object oriented programming.
 * Lecture 5: Damped Driven Harmonic Oscillator, Non-Linear oscillations, and chaos.
 * Lecture 6: Understanding chaos: The logistic map.
-* Lecture 7: Lorenz model, attractors, fractals. Using jit to speed up python.
+* Lecture 7: Lorenz model, attractors, fractals. Using `jit` to speed up python.
+* Lecture 8: Boundary value problems: shooting method and root finding.
+* Lecture 9: Boundary value problems: shooting and matching, 1D time independent Schrodinger equation.
+* Lecture 10: Boundary value problems: Laplacian operator and the Jacobi method. 
 * ... to be updated as class proceeds
 
